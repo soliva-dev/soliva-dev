@@ -33,8 +33,8 @@ Me interesa mucho colaborar en **proyectos open-source** enfocados en sistemas b
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- Bases de datos **NoSQL**
-- API REST
+- ![NoSQL](https://img.shields.io/badge/-NoSQL-E34C26?style=flat&logo=json&logoColor=white)
+- ![API REST](https://img.shields.io/badge/-API%20REST-005571?style=flat&logo=rest&logoColor=white)
 - ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ## Contáctame
