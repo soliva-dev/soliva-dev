@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Samuel Oliva
 
-Bienvenido a mi perfil de GitHub. Soy desarrollador backend en proceso y estoy especializadome en **PHP** y **Bases de Datos**.
+Bienvenido a mi perfil de GitHub. Soy desarrollador backend en proceso y estoy especializándome en **PHP** y **Bases de Datos**.
 
 ## Un poco sobre mí
-Soy un desarrollador backend que esta ganando experiencia en **PHP** y **Bases de ddatos**. Disfruto mucho creando soluciones eficientes para la gestión de sistemas y procesos.
+Soy un desarrollador backend que está ganando experiencia en **PHP** y **Bases de datos**. Disfruto mucho creando soluciones eficientes para la gestión de sistemas y procesos.
 
-Trabajo actualmente en [Legajos Online](https://legajosonline.com), un sistema de gestión de gestion de recursos humanos.
-Actualmente estoy estudiando el lenguaje **PHP** para mejorar mis habilidades en el desarrollo backend y poder realizar tareas automatizadas que puedan generar eficiencia.
-Ademas estoy realizando una carrera de **Desarrollo Web FullStack** para poder ampliar mi abanico de conocimientos en desarrollo tanto front como back.
+Trabajo actualmente en [Legajos Online](https://legajosonline.com), un sistema de gestión de recursos humanos.  
+Actualmente estoy estudiando el lenguaje **PHP** para mejorar mis habilidades en el desarrollo backend y poder realizar tareas automatizadas que generen eficiencia.  
+Además, estoy realizando una carrera de **Desarrollo Web FullStack** para ampliar mis conocimientos en desarrollo tanto front como back.  
 Me interesa mucho colaborar en **proyectos open-source** enfocados en sistemas backend y desarrollo web.
 
 ## Tecnologías y Herramientas
@@ -16,16 +16,22 @@ Me interesa mucho colaborar en **proyectos open-source** enfocados en sistemas b
 - **Bases de Datos**: MySQL, SQL
 - **Otros**: Git, Docker, Composer
 
-### Actualmente me encuentro aprendiendo
+### Me encuentro reforzando conocimientos en
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- **MVC** (Modelo-Vista-Controlador)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Y sumando nuevos conocimientos como
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Reforzando conocimientos en 
--  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
--   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
--   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Bases de datos **NoSQL**
+- API REST
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ## Contáctame
 - 📧 [soliva.programmer@gmail.com](mailto:soliva.programmer@gmail.com)
