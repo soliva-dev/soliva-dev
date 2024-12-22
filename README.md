@@ -1,13 +1,12 @@
 # 👋 ¡Hola! Soy Samuel Oliva
 
-Bienvenido a mi perfil de GitHub. Soy desarrollador backend en proceso y estoy especializándome en **PHP** y **Bases de Datos**.
+Bienvenido a mi perfil de GitHub. Soy un dev backend en proceso, especializándome especificamente en **PHP** y **Bases de Datos**.
 
 ## Un poco sobre mí
-Soy un desarrollador backend que está ganando experiencia en **PHP** y **Bases de datos**. Disfruto mucho creando soluciones eficientes para la gestión de sistemas y procesos.
 
-Trabajo actualmente en [Legajos Online](https://legajosonline.com), un sistema de gestión de recursos humanos.  
-Actualmente estoy estudiando el lenguaje **PHP** para mejorar mis habilidades en el desarrollo backend y poder realizar tareas automatizadas que generen eficiencia.  
-Además, estoy realizando una carrera de **Desarrollo Web FullStack** para ampliar mis conocimientos en desarrollo tanto front como back.  
+Trabajo en [Legajos Online](https://legajosonline.com), un sistema de gestión de recursos humanos para empresas, desde Junio 2024.
+Actualmente estoy estudiando el lenguaje **PHP** para mejorar mis habilidades en el desarrollo backend y poder realizar tareas automatizadas que generen eficiencia dentro de mi campo de trabajo.
+Además, estoy realizando una carrera de **Desarrollo Web FullStack** para ampliar mis conocimientos en desarrollo, tanto front como back.  
 Me interesa mucho colaborar en **proyectos open-source** enfocados en sistemas backend y desarrollo web.
 
 ## Tecnologías y Herramientas
