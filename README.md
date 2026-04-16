@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Soy un dev backend en proceso, especializándo
 
 ## Un poco sobre mí
 
-Trabajo en [Legajos Online](https://legajosonline.com), un sistema de gestión de recursos humanos para empresas, desde Junio 2024.
+Trabajo en [Legajos Online](https://legajosonline.com), ([LOL](https://github.com/Legajos-Online)) un sistema de gestión de recursos humanos para empresas, desde Junio 2024.
 Actualmente estoy estudiando el lenguaje **PHP** para mejorar mis habilidades en el desarrollo backend y poder realizar tareas automatizadas que generen eficiencia dentro de mi campo de trabajo.
 Además, estoy realizando una carrera de **Desarrollo Web FullStack** para ampliar mis conocimientos en desarrollo, tanto front como back.  
 Me interesa mucho colaborar en **proyectos open-source** enfocados en sistemas backend y desarrollo web.
